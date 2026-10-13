@@ -2,8 +2,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/phantom-dark.svg">
-    <img src="assets/phantom-light.svg" alt="Phantom" width="40" height="50">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/phantom-dark-still.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/phantom-light-still.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/phantom-dark.gif">
+    <img src="assets/phantom-light.gif" alt="Phantom" width="64" height="64">
   </picture>
 </p>
 
